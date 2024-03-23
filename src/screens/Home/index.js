@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
 
   header: {
     width: "100%",
-    padding: 80,
+    padding: 40,
     alignItems: "center",
     justifyContent: "center",
   },
@@ -105,7 +105,7 @@ const styles = StyleSheet.create({
     width: "100%",
     flexDirection: "row",
     justifyContent: "space-evenly",
-    marginTop: 30,
+    marginTop: 10,
     marginBottom: 15,
   },
 
